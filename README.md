@@ -5,7 +5,7 @@ There are several Ham radio operators use  clone of Juma PA 150D linear amplifie
 
 1) Download  MPLAB X IDE setup file ( v6.2.0 worked for me with the pickit I have )
 
-2) Select only MPLAB IPE  when the installer asks
+2) Select only MPLAB IPE  and check box option "dsPIC DSC and 16 bit PIC 24"  when the installer asks
 
 3) After installation , connect pickit and install missing dependent libraries  if any.
 
